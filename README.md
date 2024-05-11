@@ -1,5 +1,6 @@
 # livroMagico
 O código inicial do Projeto Livro Mágico visa proporcionar uma experiência educativa interativa para as turmas iniciais, incentivando a criatividade e tornando as aulas mais inclusivas e cativantes.
+
 Funções do código inicial:
 
 Personagem e cenário: Os professores podem criar um personagem e um cenário personalizados, adaptando a história de acordo com o tema escolhido para a aula.
@@ -9,9 +10,13 @@ Interação das turmas iniciais: Cada estudante pode interagir com a história e
 
 Objetivos educacionais:
 
-Desenvolvimento da criatividade: O código inicial estimula a imaginação e a capacidade de construir histórias dos alunos.
+Desenvolvimento da criatividade:
+O código inicial estimula a imaginação e a capacidade de construir histórias dos alunos.
 Aulas mais inclusivas:
+
 Com histórias personalizadas e interações em tempo real, o Projeto Livro Mágico torna as aulas mais atrativas e inclusivas, envolvendo todos os alunos no processo de aprendizagem.
+
 Aprendizagem colaborativa: A interação entre os alunos e a possibilidade de compartilharem suas próprias histórias promovem uma aprendizagem colaborativa e estimulam o desenvolvimento das habilidades sociais.
+
 O Projeto Livro Mágico tem como objetivo principal oferecer uma ferramenta útil para os professores e uma experiência envolvente para os alunos, transformando a aprendizagem em uma aventura criativa e interativa.
 
